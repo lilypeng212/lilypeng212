@@ -1,27 +1,41 @@
 # Lily Peng
 
-Business Analyst | Data Analytics | E-commerce Strategy
+Business Analytics · E-commerce Strategy · Data Visualization  
 
-I specialize in turning complex business problems into actionable insights through data analysis, dashboarding, and structured problem solving.
-
-With experience in e-commerce analytics and consulting projects, I focus on identifying growth opportunities, optimizing product performance, and supporting data-driven decision making.
+I specialize in turning complex business problems into actionable insights through data analysis, structured thinking, and dashboarding.
 
 ---
 
-## 🔧 Skills
-- SQL · Python · R · Power BI · Excel
-- Data Analysis · Dashboarding · Business Strategy
-- A/B Testing · Customer Behavior Analysis
+💼 Business Analyst — E-commerce Project (McKinsey & Company)  
+📅 Nov. 2024 – Nov. 2025  
+📍 Taipei, Taiwan  
+
+> **Disclaimer:** This portfolio uses sanitized descriptions and synthetic examples only.  
+> No proprietary data, client information, or confidential business logic is included.
 
 ---
 
-## 📊 Featured Projects (Coming Soon)
-- E-commerce Performance Analysis
-- Customer Retention Analysis
-- Business Dashboard (Power BI)
+## 📌 Featured Experience
+
+### 🏢 McKinsey E-commerce Analytics Project
+End-to-end business analytics work supporting e-commerce growth strategy, including funnel analysis, keyword performance tracking, and product data optimization.
+
+- [E-commerce Growth Strategy & Analytics](https://github.com/lilypeng212/E-commerce-Growth-Strategy-Analytics) — Funnel analysis & growth strategy  
+- [Keyword Dashboard with BigQuery](https://github.com/lilypeng212/Keyword-Dashboard-Big-Query-) — Keyword performance monitoring  
+- [Product Name Similarity Analysis](https://github.com/lilypeng212/Product-Name-Similarity-Analysis) — Product data cleaning & matching
 
 ---
 
-## 📫 Contact
-- LinkedIn: linkedin.com/in/AnLiPeng
-- Email: lilypeng212@gmail.com
+### 🎓 Business Analytics Coursework
+Academic projects focused on applying data analytics to real-world business problems, including dashboarding, market analysis, and decision-making frameworks.
+
+👉 View Projects:
+- （之後放你的課堂專案 repo）
+
+---
+
+### 🏆 Business Case Competitions
+Experience in developing strategic recommendations and presenting data-driven business insights in competitive environments.
+
+👉 View Projects:
+- （之後放競賽 repo 或簡報）
