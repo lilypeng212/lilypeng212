@@ -1,16 +1,27 @@
-## Hi there 👋
+# Lily Peng
 
-<!--
-**lilypeng212/lilypeng212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Business Analyst | Data Analytics | E-commerce Strategy
 
-Here are some ideas to get you started:
+I specialize in turning complex business problems into actionable insights through data analysis, dashboarding, and structured problem solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+With experience in e-commerce analytics and consulting projects, I focus on identifying growth opportunities, optimizing product performance, and supporting data-driven decision making.
+
+---
+
+## 🔧 Skills
+- SQL · Python · R · Power BI · Excel
+- Data Analysis · Dashboarding · Business Strategy
+- A/B Testing · Customer Behavior Analysis
+
+---
+
+## 📊 Featured Projects (Coming Soon)
+- E-commerce Performance Analysis
+- Customer Retention Analysis
+- Business Dashboard (Power BI)
+
+---
+
+## 📫 Contact
+- LinkedIn: linkedin.com/in/AnLiPeng
+- Email: lilypeng212@gmail.com
