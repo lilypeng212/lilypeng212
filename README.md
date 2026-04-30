@@ -34,8 +34,8 @@ Academic projects focused on applying data analytics to real-world business prob
 
 ---
 
-### 🏆 Business Case Competitions
-Experience in developing strategic recommendations and presenting data-driven business insights in competitive environments.
+### 🏆 Kaohsiung City Youth Bureau — Business Proposal Competition (Excellent Award)
+Developed market-driven strategies based on customer insights and competitive positioning, including brand development, digital marketing, and product concept design.
 
 👉 View Projects:
 - （之後放競賽 repo 或簡報）
