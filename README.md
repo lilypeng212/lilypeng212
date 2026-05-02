@@ -26,7 +26,7 @@ End-to-end business analytics work supporting e-commerce growth strategy, includ
 
 ---
 
-### 🎓 Business Analytics Coursework
+## 🎓 Business Analytics Coursework
 
 Academic projects focused on applying data analytics to real-world business problems, including segmentation, predictive modeling, and decision-making optimization.
 
