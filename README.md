@@ -14,7 +14,7 @@ I turn data into actionable insights and support data-driven decision-making acr
 B.A. in Political Economy (GPA: 3.79/4.3)  
 
 Relevant Coursework:  
-Statistics · Econometrics · Multivariate Statistical Analysis · 
+Statistics · Econometrics · Multivariate Statistical Analysis ·  
 Time Series Analysis · Big Data Analytics & Machine Learning · Financial Data Analysis ·  
 Business Analytics · Marketing Management · Digital Marketing  
 
