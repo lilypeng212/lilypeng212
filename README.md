@@ -15,7 +15,7 @@ B.A. in Political Economy (GPA: 3.79/4.3)
 
 Relevant Coursework:  
 Statistics · Econometrics · Multivariate Statistical Analysis · Time Series Analysis ·  
-Data Analysis (R) · Big Data Analytics & Machine Learning · Financial Data Analysis ·  
+Big Data Analytics & Machine Learning · Financial Data Analysis ·  
 Business Analytics · Marketing Management · Digital Marketing  
 
 > **Disclaimer:** This portfolio uses sanitized descriptions and synthetic examples only.  
