@@ -32,7 +32,7 @@ Academic projects applying data analytics to real-world business problems, inclu
 **🛒 Customer Segmentation & Marketing Optimization (TAFENG Retail Dataset)**  
 Applied business analytics techniques to identify high-value customer segments and optimize marketing strategies using predictive modeling and ROI simulation.
 
-- [Customer Segmentation & Marketing Strategy](你的repo連結) — Segmentation, predictive modeling, and ROI optimization  
+- [Customer Segmentation & Marketing Strategy](https://github.com/lilypeng212/Customer-Segmentation-Marketing-Optimization) — Segmentation, predictive modeling, and ROI optimization  
 
 ---
 
