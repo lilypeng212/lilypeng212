@@ -1,6 +1,6 @@
 # Peng, An-Li (Lily)
 
-**Business Analytics · Data Strategy · Product & Customer Analytics · Data Visualization  **
+**Business Analytics · Data Strategy · Product & Customer Analytics · Data Visualization**
 
 I turn data into actionable insights and support data-driven decision-making across analytics, business strategy, and customer experience.
 
