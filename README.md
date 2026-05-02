@@ -27,14 +27,12 @@ End-to-end business analytics work supporting e-commerce growth strategy, includ
 ---
 
 ### 🎓 Business Analytics Coursework
+Academic projects applying data analytics to real-world business problems, including segmentation, predictive modeling, and data-driven decision-making.
 
-Academic projects focused on applying data analytics to real-world business problems, including segmentation, predictive modeling, and decision-making optimization.
-
-🛒 Customer Segmentation & Marketing Optimization (TAFENG Retail Dataset)
-
+**🛒 Customer Segmentation & Marketing Optimization (TAFENG Retail Dataset)**  
 Applied business analytics techniques to identify high-value customer segments and optimize marketing strategies using predictive modeling and ROI simulation.
 
-- [Customer Segmentation & Marketing Strategy](你的repo連結) — Segmentation, predictive modeling, and ROI optimization
+- [Customer Segmentation & Marketing Strategy](你的repo連結) — Segmentation, predictive modeling, and ROI optimization  
 
 ---
 
