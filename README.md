@@ -45,11 +45,11 @@ Developed data-driven segmentation and predictive models to identify high-value 
 
 ### 🏆 Kaohsiung City Youth Bureau — Business Proposal Competition (Excellent Award)
 
-Designed an integrated business proposal combining product design, service experience, and digital travel planning for Spring Hill Resort.
+Applied strategic analysis to design an integrated product, service, and customer experience solution for Spring Hill Resort.
 
 - Translated customer insights into product, service, and experience strategies  
-- Designed differentiated offerings to enhance customer experience and brand positioning  
-- Built a three-layer travel experience system (brochure, website, Google Maps) to improve customer journey and engagement  
+- Designed differentiated offerings to enhance brand positioning and customer engagement  
+- Built a three-layer travel experience system (brochure, website, Google Maps)  
 
 - [Project Repository](https://github.com/lilypeng212/Business-Proposal-Competition-ALIVE-Spring-Hill-Resort) — Strategy, product design, and customer experience  
 - [Project Website](https://sites.google.com/view/springhill-alive) — Interactive travel planning platform  
