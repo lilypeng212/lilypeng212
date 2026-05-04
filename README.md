@@ -2,7 +2,7 @@
 
 **Business Analytics · Data Strategy · Product & Customer Analytics · Data Visualization**
 
-I turn data into actionable insights and support data-driven decision-making across analytics, business strategy, and customer experience.
+I turn data into actionable insights and support data-driven decision-making across analytics, business strategy, and customer-focused problem solving.
 
 💼 McKinsey & Company — Project-Based Business Analyst (E-commerce Project)  
 📅 Nov. 2024 – Nov. 2025  
@@ -45,7 +45,7 @@ Developed data-driven segmentation and predictive models to identify high-value 
 
 ### 🏆 Kaohsiung City Youth Bureau — Business Proposal Competition (Excellent Award)
 
-Applied strategic analysis to design an integrated product, service, and customer experience solution for Spring Hill Resort.
+Developed a customer-centric business proposal integrating product design, service experience, and digital travel planning for Spring Hill Resort.
 
 - Translated customer insights into product, service, and experience strategies  
 - Designed differentiated offerings to enhance brand positioning and customer engagement  
