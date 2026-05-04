@@ -36,7 +36,7 @@ Applied data analytics to support e-commerce growth strategy, including funnel a
 
 Applied data analytics to real-world business problems, including customer segmentation, predictive modeling, and decision-making optimization.
 
-**🛒 Customer Segmentation & Marketing Optimization (TAFENG Retail Dataset)**  
+**🛒 Customer Segmentation & Marketing Optimization (Ta Feng Retail Dataset)**  
 Developed data-driven segmentation and predictive models to identify high-value customers and optimize marketing ROI.
 
 - [Customer Segmentation & Marketing Strategy](https://github.com/lilypeng212/Customer-Segmentation-Marketing-Optimization) — Segmentation, predictive modeling, and ROI optimization  
