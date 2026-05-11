@@ -16,6 +16,9 @@ Statistics · Econometrics · Multivariate Statistical Analysis ·
 Time Series Analysis · Big Data Analytics & Machine Learning · Financial Data Analysis ·  
 Business Analytics · Marketing Management · Digital Marketing  
 
+🛠 Tools & Skills:   
+SQL · BigQuery · Power BI (DAX, Power Query) · Looker Studio · R · Python · Excel · Data Visualization · Dashboard Development · KPI Framework Design · Data Transformation
+
 > **Disclaimer:** This portfolio uses sanitized descriptions and synthetic examples only.  
 > No proprietary data, client information, or confidential business logic are included.
 
