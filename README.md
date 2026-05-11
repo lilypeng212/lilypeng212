@@ -28,7 +28,6 @@ SQL · BigQuery · Power BI (DAX, Power Query) · Looker Studio · R · Python �
 
 ### 🏢 McKinsey E-commerce Analytics Project
 Applied data analytics to support e-commerce growth strategy, including funnel analysis, keyword performance tracking, and product optimization.
-
 - [E-commerce Growth Strategy & Analytics](https://github.com/lilypeng212/E-commerce-Growth-Strategy-Analytics) — Conversion funnel analysis and growth strategy  
 - [Keyword Dashboard with BigQuery](https://github.com/lilypeng212/Keyword-Dashboard-Big-Query-) — Keyword performance tracking and dashboard pipeline  
 - [Product Name Similarity Analysis](https://github.com/lilypeng212/Product-Name-Similarity-Analysis) — Product data cleaning and similarity matching  
@@ -41,7 +40,6 @@ Applied data analytics to real-world business problems, including customer segme
 
 **🛒 Customer Segmentation & Marketing Optimization (Ta Feng Retail Dataset)**  
 Developed data-driven segmentation and predictive models to identify high-value customers and optimize marketing ROI.
-
 - [Customer Segmentation & Marketing Strategy](https://github.com/lilypeng212/Customer-Segmentation-Marketing-Optimization) — Segmentation, predictive modeling, and ROI optimization  
 
 ---
@@ -49,7 +47,6 @@ Developed data-driven segmentation and predictive models to identify high-value 
 ### 🏆 Kaohsiung City Youth Bureau — Business Proposal Competition (Excellent Award)
 
 Developed a customer-centric business proposal integrating product design, service experience, and digital travel planning for Spring Hill Resort.
-
 - Translated customer insights into product, service, and experience strategies  
 - Designed differentiated offerings to enhance brand positioning and customer engagement  
 - Built a three-layer travel experience system (brochure, website, Google Maps)  
