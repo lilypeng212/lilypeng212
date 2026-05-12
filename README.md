@@ -1,23 +1,16 @@
 # Peng, An-Li (Lily)
 
-**Business Analytics · Data Strategy · Product & Customer Analytics · Data Visualization**
+**Business Analytics · Data Strategy · Product & Customer Analytics**
 
 I turn data into actionable insights and support data-driven decision-making across analytics, business strategy, and customer-focused problem solving.
 
 💼 McKinsey & Company — Project-Based Business Analyst (E-commerce Project)  
-📅 Nov. 2024 – Nov. 2025  
-📍 Taipei, Taiwan  
+📅 Nov. 2024 – Nov. 2025 · Taipei, Taiwan  
 
-🎓 National Sun Yat-Sen University  
-B.A. in Political Economy (GPA: 3.79/4.3)  
+🎓 National Sun Yat-Sen University — B.A. in Political Economy
 
-Relevant Coursework:  
-Statistics · Econometrics · Multivariate Statistical Analysis ·  
-Time Series Analysis · Big Data Analytics & Machine Learning · Financial Data Analysis ·  
-Business Analytics · Marketing Management · Digital Marketing  
-
-🛠 Tools & Skills:   
-SQL · BigQuery · Power BI (DAX, Power Query) · Looker Studio · R · Python · Excel · Data Visualization · Dashboard Development · KPI Framework Design · Data Transformation
+🛠 Tools & Skills:  
+SQL · BigQuery · Power BI (DAX, Power Query) · Looker Studio · R · Python · Dashboard Development · KPI Framework Design
 
 > **Disclaimer:** This portfolio uses sanitized descriptions and synthetic examples only.  
 > No proprietary data, client information, or confidential business logic are included.
